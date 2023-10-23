@@ -124,6 +124,8 @@ footer{
   /* font-weight: bold; */
   background-color: darkgreen;
   color: bisque;
+  text-decoration: underline;
+  text-transform:uppercase;
 }
 
 
